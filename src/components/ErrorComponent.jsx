@@ -1,8 +1,8 @@
 import React from 'react'
 
-function ErrorComponent() {
+function ErrorComponent({message}) {
   return (
-    <div>ErrorComponent</div>
+    <div>{message}</div>
   )
 }
 
