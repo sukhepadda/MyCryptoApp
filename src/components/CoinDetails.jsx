@@ -2,7 +2,7 @@ import React from 'react'
 
 function CoinDetails() {
   return (
-    <div>CoinDetails</div>
+    <div>5:34:40</div>
   )
 }
 
